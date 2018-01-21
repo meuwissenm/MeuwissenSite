@@ -26,7 +26,7 @@ a, button {
 }
 
 .leftInfo {
-	width: 50%;
+	width: 60%;
 	float: left;
 	float: bottom;
 	text-align:left;
@@ -34,11 +34,12 @@ a, button {
 	font-family:efestoRegular;
 	font-weight: bold;
 	font-size: 6.4em;
+	padding-bottom: 500px;
 }
 
 .rightTitle{
 	float:left;
-	width: 50%;
+	width: 80%;
 	line-height: 20px;
 	text-align:right;
 	padding-top: 500px;
