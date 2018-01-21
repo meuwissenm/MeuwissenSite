@@ -33,17 +33,18 @@ a, button {
 	line-height: 50px;
 	font-family:efestoRegular;
 	font-weight: bold;
+	font-size: 6.4em;
 }
 
 .rightTitle{
 	float:left;
 	width: 50%;
-	line-height: 5px;
+	line-height: 20px;
 	text-align:right;
 	padding-top: 500px;
 	font-family: efestoRegular;
 	font-weight: bold;
-	font-size: 3.4em;
+	font-size: 10.4em;
 }
 article{
 padding: 10px;
