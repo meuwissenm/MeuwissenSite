@@ -30,21 +30,21 @@ a, button {
 	float: left;
 	float: bottom;
 	text-align:left;
-	line-height: 50px;
+	line-height: 30px;
 	font-family:efestoRegular;
 	font-weight: bold;
-	font-size: 3.4em;
-	padding-bottom: 500px;
+	font-size: 2.4em;
+
 }
 
 .rightTitle{
 	float:left;
 	width: 100%;
-	line-height: 20px;
+	line-height: 30px;
 	text-align:right;
 	padding-top: 500px;
 	font-family: 'Rubik', sans-serif;
-	font-size: 10.4em;
+	font-size: 8.4em;
 }
 article{
 padding: 10px;
